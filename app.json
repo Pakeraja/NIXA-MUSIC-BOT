@@ -1,5 +1,5 @@
 {
-    "name": "ɴɪxᴀ ᴍᴜsɪᴄ ʙᴏᴛ",
+    "name": "🇷𝗢𝗖𝗞𝗘𝗧 🇲𝗨𝗦𝗜𝗖 🇧𝗢𝗧 ",
     "logo": "https://te.legra.ph/file/7efcc30c166d793ed98a5.jpg",
     "description": "ᴍᴜsɪᴄ ᴀʟʟᴏᴡ ʏᴏᴜ ᴛᴏ sᴛʀᴇᴀᴍ ᴍᴜsɪᴄ ᴛʜʀᴏᴜɢʜ ᴛʜᴇ ᴛᴇʟᴇɢʀᴀᴍ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ғᴇᴀᴛᴜʀᴇs.",
     "keywords": ["Nixa", "NIXA-MUSIC-BOT", "music", "voice chat", "telegram", "Private Music"],
@@ -13,12 +13,12 @@
         "ASSISTANT_NAME": {
             "description": "fill with your telegram id as the owner of the bot",
             "required": true,
-            "value": ""
+            "value": "GnetworkMusic"
         },
         "BOT_USERNAME": {
             "description": "fill with telegram id of account",
             "required": true,
-            "value": ""
+            "value": "Honey_Music_Robot"
         },
         "API_ID": {
             "description": "your Api ID from my.telegram.org/apps",
@@ -33,17 +33,17 @@
         "GROUP_SUPPORT": {
             "description": "Ur Support Group Username",
             "required": false,
-            "value": "TechQuardSupport"
+            "value": "Telugulittleworld"
         },
         "UPDATES_CHANNEL": {
             "description": "Ur Updates Channel",
             "required": false,
-            "value": "TechQuard"
+            "value": "RJbr0"
         },
         "SUDO_USERS": {
             "description": "fill with the user id who can access all function in your bot (separate with space).",
             "required": true,
-            "value": "5513481385"
+            "value": "5027740392"
         },
         "DURATION_LIMIT": {
             "description": "filled, don't change this !",

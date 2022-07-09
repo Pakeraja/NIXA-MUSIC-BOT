@@ -61,7 +61,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     if query.data=="help":
         buttons = [
             [
-                InlineKeyboardButton("👮 ᴏᴡɴᴇʀ", url="https://t.me/Mr_DiSasTer_XD"),
+                InlineKeyboardButton("🌱 ᴏᴡɴᴇʀ", url="https://t.me/mynameisgroot"),
                 InlineKeyboardButton("🗨️ ᴜꜱᴇʀꜱ", callback_data="users"),
             ],
             [
@@ -90,11 +90,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton("➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀᴛ ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),
             ],
             [
-                InlineKeyboardButton("👥 sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{GROUP_SUPPORT}"),
-                InlineKeyboardButton("📢 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/TechQuard"),
+                InlineKeyboardButton("😇 sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{GROUP_SUPPORT}"),
+                InlineKeyboardButton("☺️ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/rjbr0"),
             ],
             [
-                InlineKeyboardButton("♨️ sᴏᴜʀᴄᴇ Cᴏᴅᴇ", url="https://github.com/Sumit9969/NIXA-MUSIC-BOT"),
+                InlineKeyboardButton("😎 ᴏᴡɴᴇʀ", url="https://t.me/mynameisgroot"),
             ],
             [
                 InlineKeyboardButton("📄 ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ", callback_data="help"),
@@ -187,11 +187,11 @@ async def start(client: Client, message: Message):
                 InlineKeyboardButton("➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀᴛ ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),
             ],
             [
-                InlineKeyboardButton("👥 sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{GROUP_SUPPORT}"),
-                InlineKeyboardButton("📢 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/TechQuard"),
+                InlineKeyboardButton("🌱 sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{GROUP_SUPPORT}"),
+                InlineKeyboardButton("😌 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/rjbr0"),
             ],
             [
-                InlineKeyboardButton("♨️ sᴏᴜʀᴄᴇ Cᴏᴅᴇ", url="https://github.com/Sumit9969/NIXA-MUSIC-BOT"),
+                InlineKeyboardButton("😇 ᴏᴡɴᴇʀ", url="https://t.me/mynameisgroot"),
             ],
             [
                 InlineKeyboardButton("📄 ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ", callback_data="help"),
@@ -206,7 +206,7 @@ async def help(client: Client, message: Message):
     self.username = get_me.username
     buttons =  [
             [
-                InlineKeyboardButton("👮 ᴏᴡɴᴇʀ", url="https://t.me/Mr_DiSasTer_XD"),
+                InlineKeyboardButton("🌱 ᴏᴡɴᴇʀ", url="https://t.me/mynameisgroot"),
                 InlineKeyboardButton("🗨️ ᴜꜱᴇʀꜱ", callback_data="users"),
             ],
             [
